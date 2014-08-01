@@ -1,0 +1,30 @@
+{
+  "name": "GameTagSearch",
+  "version": "0.0.0",
+  "description": "GameTagSearch",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huw12313212/GameTagSearch"
+  },
+  "keywords": [
+    "Game",
+    "Tag",
+    "Search"
+  ],
+  "author": "Han-Yu,Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huw12313212/GameTagSearch/issues"
+  },
+  "homepage": "https://github.com/huw12313212/GameTagSearch",
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "request": "^2.39.0",
+    "parse": "^1.2.19",
+    "express": "^4.7.2"
+  }
+}
