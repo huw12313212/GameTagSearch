@@ -1,0 +1,2302 @@
+{ "results": [
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.155Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.739Z",
+        "name": "Bakery Story: Farmer’s Market",
+        "objectId": "wDTsPHNHXA",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 14,
+            "type": "casual"
+        },
+        "sold": 750000,
+        "soldDetail": {
+            "max": 1000000,
+            "min": 500000,
+            "sold": 750000
+        },
+        "updatedAt": "2014-08-02T06:09:39.739Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.teamlava.bakerystory38/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.164Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.737Z",
+        "name": "Baby Hazel Newborn Baby",
+        "objectId": "Jd5VrP4W67",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 59,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.737Z",
+        "url": "http://www.appannie.com/apps/google-play/app/air.org.axisentertainment.BabyHazelNewbornBaby/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.158Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.739Z",
+        "name": "Hair Salon - Kids Games",
+        "objectId": "uGO37r0b7W",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 30,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.739Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.g6677.android.phairsalon/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.152Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.744Z",
+        "name": "Follow The Line",
+        "objectId": "CflEcQBP4L",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 3,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.744Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.crimsonpine.stayinline/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.167Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.748Z",
+        "name": "Games for Girls Spa Salon",
+        "objectId": "BpHFUBQ38h",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 71,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.748Z",
+        "url": "http://www.appannie.com/apps/google-play/app/air.com.mgamey.princessatspasalon/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.153Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.746Z",
+        "name": "Despicable Me",
+        "objectId": "s0VLr66C5R",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 7,
+            "type": "casual"
+        },
+        "sold": 300000000,
+        "soldDetail": {
+            "max": 500000000,
+            "min": 100000000,
+            "sold": 300000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.746Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.gameloft.android.ANMP.GloftDMHM/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.164Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.752Z",
+        "name": "Bubble Worlds",
+        "objectId": "KNE12GHovB",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 62,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.752Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.hapogames.BubbleParadise/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.155Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.752Z",
+        "name": "The Simpsons™: Tapped Out",
+        "objectId": "epdmlQYWd9",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 17,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.752Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.ea.game.simpsons4_na/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.157Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.754Z",
+        "name": "Princess Nail Salon",
+        "objectId": "jIbX6o9sPs",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 28,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.754Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.g6677.android.pnailspa/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.156Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.758Z",
+        "name": "Piano tiles",
+        "objectId": "MAnU7IunTl",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 22,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.758Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.goodgame.mm.pianotiles/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.167Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.758Z",
+        "name": "Animal Voyage:Island Adventure",
+        "objectId": "xbASM1pQTh",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 74,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.758Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.pocketgems.android.animalvoyage/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.156Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.756Z",
+        "name": "Papa Pear Saga",
+        "objectId": "oXLm4YXWDi",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 19,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.756Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.midasplayer.apps.papapearsaga/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.152Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.765Z",
+        "name": "City Island: Airport 2",
+        "objectId": "BPBibxP7TB",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 4,
+            "type": "casual"
+        },
+        "sold": 300000,
+        "soldDetail": {
+            "max": 500000,
+            "min": 100000,
+            "sold": 300000
+        },
+        "updatedAt": "2014-08-02T06:09:39.765Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.sparklingsociety.cityislandairport2/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.154Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.773Z",
+        "name": "Electric Screen-Live Wallpaper",
+        "objectId": "EXv3YOKbrU",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 8,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.773Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.confidencebelievelength.andgood/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.153Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.773Z",
+        "name": "My Talking Tom",
+        "objectId": "4GOEy5UA0G",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 6,
+            "type": "casual"
+        },
+        "sold": 300000000,
+        "soldDetail": {
+            "max": 500000000,
+            "min": 100000000,
+            "sold": 300000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.773Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.outfit7.mytalkingtomfree/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.163Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.774Z",
+        "name": "World of Mine Block Craft",
+        "objectId": "VSgc5GLWWg",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 57,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.774Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.mineblockcraft.game/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.167Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.777Z",
+        "name": "Maker - Snow Cone!",
+        "objectId": "deOBzXI3Lb",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 73,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.777Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.blackbeltclown.android_makersnowcone/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.155Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.782Z",
+        "name": "Bubble Shoot",
+        "objectId": "gWKd78doWA",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 13,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.782Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.doodle.shootbubble/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.155Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.779Z",
+        "name": "Plants vs. Zombies™ 2",
+        "objectId": "dLHHejeczX",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 15,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.779Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.ea.game.pvz2_na/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.165Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.785Z",
+        "name": "Newborn Baby Care",
+        "objectId": "QUKYRzbJ66",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 65,
+            "type": "casual"
+        },
+        "sold": 300000,
+        "soldDetail": {
+            "max": 500000,
+            "min": 100000,
+            "sold": 300000
+        },
+        "updatedAt": "2014-08-02T06:09:39.785Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.tipytapy.newborn.baby.care/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.168Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.790Z",
+        "name": "Slushy Mania - Cooking Games",
+        "objectId": "XVTXJC8Hoa",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 80,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.790Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.absoluteappsmedia.android_slushymania/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.154Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.794Z",
+        "name": "Pet Rescue Saga",
+        "objectId": "0WVqzFi0VJ",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 10,
+            "type": "casual"
+        },
+        "sold": 75000000,
+        "soldDetail": {
+            "max": 100000000,
+            "min": 50000000,
+            "sold": 75000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.794Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.king.petrescuesaga/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.156Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.794Z",
+        "name": "Lottery Rain",
+        "objectId": "NkKsZTNpKu",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 20,
+            "type": "casual"
+        },
+        "sold": 300000,
+        "soldDetail": {
+            "max": 500000,
+            "min": 100000,
+            "sold": 300000
+        },
+        "updatedAt": "2014-08-02T06:09:39.794Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.maaxfuntime.AmLottery/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.151Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.805Z",
+        "name": "Bubble Witch 2 Saga",
+        "objectId": "U56TM7aw4J",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 2,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.805Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.midasplayer.apps.bubblewitchsaga2/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.157Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.797Z",
+        "name": "Ambulance Doctor -casual games",
+        "objectId": "DhwbosqYoE",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 24,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.797Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.degoo.android.ambulance/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.169Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.809Z",
+        "name": "Jewels Star 2",
+        "objectId": "2qD2xSpNli",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 88,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.809Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.game.JewelsStar2/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.157Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.805Z",
+        "name": "Gun Shooting-Broken Screen",
+        "objectId": "VluIWynXFL",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 23,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.805Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.coursethesespeed.googde/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.155Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.806Z",
+        "name": "Paper Toss",
+        "objectId": "TWmfI5Kvn5",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 18,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.806Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.bfs.papertoss/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.157Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.807Z",
+        "name": "SpongeBob Diner Dash",
+        "objectId": "kI77IwFTap",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 25,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.807Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.playfirst.playground.dinerdashspongebob/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.172Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.812Z",
+        "name": "Car Wash - Kids game",
+        "objectId": "jtQ4gYlySN",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 100,
+            "type": "casual"
+        },
+        "sold": 750000,
+        "soldDetail": {
+            "max": 1000000,
+            "min": 500000,
+            "sold": 750000
+        },
+        "updatedAt": "2014-08-02T06:09:39.812Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.all4game.carwash/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.170Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.819Z",
+        "name": "Moy 2 - Virtual Pet Game",
+        "objectId": "osSEd1yE0w",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 92,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.819Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.frojo.moy2/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.171Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.825Z",
+        "name": "Bubble Blaze",
+        "objectId": "gkKxp0cnpf",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 95,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.825Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.outplayentertainment.bubbleblaze/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.168Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.820Z",
+        "name": "Nose Doctor X: Booger Mania",
+        "objectId": "6cidTc8qql",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 79,
+            "type": "casual"
+        },
+        "sold": 750000,
+        "soldDetail": {
+            "max": 1000000,
+            "min": 500000,
+            "sold": 750000
+        },
+        "updatedAt": "2014-08-02T06:09:39.820Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.tabtale.nosedoctorx/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.157Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.825Z",
+        "name": "Wash Pets - kids games",
+        "objectId": "GCAwFUaGOt",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 26,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.825Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.degoo.android.washpet/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.170Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.823Z",
+        "name": "Surviving High School",
+        "objectId": "k4TActPZgZ",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 91,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.823Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.eamobile.shs_na_wf/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.158Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.830Z",
+        "name": "Laser Pointer Simulator",
+        "objectId": "MoW6NDJNYX",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 31,
+            "type": "casual"
+        },
+        "sold": 300000,
+        "soldDetail": {
+            "max": 500000,
+            "min": 100000,
+            "sold": 300000
+        },
+        "updatedAt": "2014-08-02T06:09:39.830Z",
+        "url": "http://www.appannie.com/apps/google-play/app/laser.pointer.laser.simulator.laserpointersimulator.laser/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.163Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.837Z",
+        "name": "Xray Prank",
+        "objectId": "8WujARwfrl",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 53,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.837Z",
+        "url": "http://www.appannie.com/apps/google-play/app/xray.ruocco/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.163Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.837Z",
+        "name": "Pet Shop Story™",
+        "objectId": "gpwB1NuuEp",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 56,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.837Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.teamlava.petshop/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.161Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.837Z",
+        "name": "Xray Scanner",
+        "objectId": "TN92SQmq7O",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 46,
+            "type": "casual"
+        },
+        "sold": 750000,
+        "soldDetail": {
+            "max": 1000000,
+            "min": 500000,
+            "sold": 750000
+        },
+        "updatedAt": "2014-08-02T06:09:39.837Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.happyzoo.superzed/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.154Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.838Z",
+        "name": "Football Bubble Shoot",
+        "objectId": "IJAI1apYLj",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 9,
+            "type": "casual"
+        },
+        "sold": 300000,
+        "soldDetail": {
+            "max": 500000,
+            "min": 100000,
+            "sold": 300000
+        },
+        "updatedAt": "2014-08-02T06:09:39.838Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.footballbubble.android/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.158Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.840Z",
+        "name": "Bubble Witch Saga",
+        "objectId": "iWmN2azraP",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 29,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.840Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.midasplayer.apps.bubblewitch/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.164Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.838Z",
+        "name": "Ocean Tales",
+        "objectId": "zLF0axkS4q",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 61,
+            "type": "casual"
+        },
+        "sold": 75000,
+        "soldDetail": {
+            "max": 100000,
+            "min": 50000,
+            "sold": 75000
+        },
+        "updatedAt": "2014-08-02T06:09:39.838Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.gamevil.oceantales.global/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.160Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.836Z",
+        "name": "Little Foot Doctor- kids games",
+        "objectId": "CB8LwStnFu",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 40,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.836Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.tp.android.footd/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.160Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.839Z",
+        "name": "Restaurant Story™",
+        "objectId": "xfn8wai46l",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 42,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.839Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.teamlava.restaurantstory/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.167Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.840Z",
+        "name": "Broken Screen - Crack Screen",
+        "objectId": "O6Oa4o4moy",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 69,
+            "type": "casual"
+        },
+        "sold": 300000,
+        "soldDetail": {
+            "max": 500000,
+            "min": 100000,
+            "sold": 300000
+        },
+        "updatedAt": "2014-08-02T06:09:39.840Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.brokenscreen.crackscreen/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.164Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.841Z",
+        "name": "Toilet game for toilet time",
+        "objectId": "eA00oNfvE5",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 60,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.841Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.tp.android.toilet/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.160Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.844Z",
+        "name": "Clumsy Chef Wedding Cake",
+        "objectId": "HMUG5x0p4E",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 41,
+            "type": "casual"
+        },
+        "sold": 300000,
+        "soldDetail": {
+            "max": 500000,
+            "min": 100000,
+            "sold": 300000
+        },
+        "updatedAt": "2014-08-02T06:09:39.844Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.tabtale.clumsychef/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.160Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.843Z",
+        "name": "Fashion Design - girls games",
+        "objectId": "lHWoHdzwoE",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 45,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.843Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.g6677.android.design/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.161Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.844Z",
+        "name": "Jewels Star 3",
+        "objectId": "oCm5SZyrbD",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 47,
+            "type": "casual"
+        },
+        "sold": 750000,
+        "soldDetail": {
+            "max": 1000000,
+            "min": 500000,
+            "sold": 750000
+        },
+        "updatedAt": "2014-08-02T06:09:39.844Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.game.JewelsStar3/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.158Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.849Z",
+        "name": "Electric Screen Touch Shock",
+        "objectId": "CkXVTv9kit",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 35,
+            "type": "casual"
+        },
+        "sold": 750000,
+        "soldDetail": {
+            "max": 1000000,
+            "min": 500000,
+            "sold": 750000
+        },
+        "updatedAt": "2014-08-02T06:09:39.849Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.resultcousinmodel.borrow/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.162Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.851Z",
+        "name": "Bakery Story™",
+        "objectId": "ZxAcTJo4rg",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 50,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.851Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.teamlava.bakerystory/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.169Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.853Z",
+        "name": "Baby Pet Vet Doctor",
+        "objectId": "lTSzzxx45L",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 83,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.853Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.g6677.android.lpetvet/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.163Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.852Z",
+        "name": "Happy Wheels PRO",
+        "objectId": "o4ZzfqmaGj",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 58,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.852Z",
+        "url": "http://www.appannie.com/apps/google-play/app/appinventor.ai_todoprogramar.HappyWheelsPRO/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.162Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.850Z",
+        "name": "Fingerprint Lock Screen Plus",
+        "objectId": "0bo5hDFI6y",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 49,
+            "type": "casual"
+        },
+        "sold": 750000,
+        "soldDetail": {
+            "max": 1000000,
+            "min": 500000,
+            "sold": 750000
+        },
+        "updatedAt": "2014-08-02T06:09:39.850Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.wallpaper.fingerprint.lockscreen.free/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.167Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.857Z",
+        "name": "Jewels Star",
+        "objectId": "Zp3jbSCxgF",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 72,
+            "type": "casual"
+        },
+        "sold": 75000000,
+        "soldDetail": {
+            "max": 100000000,
+            "min": 50000000,
+            "sold": 75000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.857Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.game.JewelsStar/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.169Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.863Z",
+        "name": "Princess Hair Salon",
+        "objectId": "KE8n654FUh",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 84,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.863Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.g6677.android.princesshs/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.167Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.864Z",
+        "name": "Stickman Click death GYM",
+        "objectId": "ShU4EbyaGO",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 75,
+            "type": "casual"
+        },
+        "sold": 750000,
+        "soldDetail": {
+            "max": 1000000,
+            "min": 500000,
+            "sold": 750000
+        },
+        "updatedAt": "2014-08-02T06:09:39.864Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.air.sandreas.stickmanclickdeath/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.166Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.871Z",
+        "name": "Candy Frenzy",
+        "objectId": "4gPogdySaV",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 67,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.871Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.appgame7.candyfrenzy/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.160Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.869Z",
+        "name": "Disney Hidden Worlds",
+        "objectId": "S2uiSRDIWc",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 43,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.869Z",
+        "url": "http://www.appannie.com/apps/google-play/app/air.com.disney.hiddendisney.goo/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.169Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.875Z",
+        "name": "Broken Screen Crank",
+        "objectId": "Lw6pdKqb5t",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 86,
+            "type": "casual"
+        },
+        "sold": 300000,
+        "soldDetail": {
+            "max": 500000,
+            "min": 100000,
+            "sold": 300000
+        },
+        "updatedAt": "2014-08-02T06:09:39.875Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.biggame.brokenscreencrank/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.158Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.880Z",
+        "name": "Frozen Potion",
+        "objectId": "jRp5YWqofY",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 33,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.880Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.minuteplus.frozenpotion/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.168Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.881Z",
+        "name": "Princess Nose SPA -girls games",
+        "objectId": "GIC0s78Q9t",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 81,
+            "type": "casual"
+        },
+        "sold": 300000,
+        "soldDetail": {
+            "max": 500000,
+            "min": 100000,
+            "sold": 300000
+        },
+        "updatedAt": "2014-08-02T06:09:39.881Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.tp.android.princessnosespa/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.172Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.888Z",
+        "name": "Delicious Cake Decoration",
+        "objectId": "QLmT9Sor5b",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 97,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.888Z",
+        "url": "http://www.appannie.com/apps/google-play/app/air.com.devgameapp.DeliciousCakeDecoration/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.168Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.892Z",
+        "name": "Candy Pop",
+        "objectId": "6OLEOOaEL5",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 76,
+            "type": "casual"
+        },
+        "sold": 750000,
+        "soldDetail": {
+            "max": 1000000,
+            "min": 500000,
+            "sold": 750000
+        },
+        "updatedAt": "2014-08-02T06:09:39.892Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.candyang.doodle/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.169Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.896Z",
+        "name": "Real Fingerprint Scanner",
+        "objectId": "W3GKAjPlLN",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 87,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.896Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.alinaduva.fingerprint.scanner/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.155Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.901Z",
+        "name": "Prom Spa Salon - Girls Games",
+        "objectId": "NoeVsdppSS",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 16,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.901Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.lezhi.PromSalon/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.156Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.903Z",
+        "name": "Destiny",
+        "objectId": "5LH5MvAzwQ",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 21,
+            "type": "casual"
+        },
+        "sold": 300000,
+        "soldDetail": {
+            "max": 500000,
+            "min": 100000,
+            "sold": 300000
+        },
+        "updatedAt": "2014-08-02T06:09:39.903Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.bungieinc.bungiemobile/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.168Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.908Z",
+        "name": "Selfie Shave -My Face Makeover",
+        "objectId": "GRP0ws6i2Q",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 82,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.908Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.tabtale.shaveme/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.172Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.909Z",
+        "name": "Star Girl",
+        "objectId": "4kD7xrFZO2",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 98,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.909Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.animoca.google.starGirl/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.160Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.911Z",
+        "name": "Transparent Wallpaper Camera",
+        "objectId": "dPLX4GyOKZ",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 44,
+            "type": "casual"
+        },
+        "sold": 300000,
+        "soldDetail": {
+            "max": 500000,
+            "min": 100000,
+            "sold": 300000
+        },
+        "updatedAt": "2014-08-02T06:09:39.911Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.businessbitterloud.spend/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.159Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.916Z",
+        "name": "Virtual Families 2",
+        "objectId": "d9AZRoCQ95",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 36,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.916Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.ldw.virtualfamilies2/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.159Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.918Z",
+        "name": "Island Experiment",
+        "objectId": "HWVRLrxwPL",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 37,
+            "type": "casual"
+        },
+        "sold": 300000,
+        "soldDetail": {
+            "max": 500000,
+            "min": 100000,
+            "sold": 300000
+        },
+        "updatedAt": "2014-08-02T06:09:39.918Z",
+        "url": "http://www.appannie.com/apps/google-play/app/ru.crazybit.experiment/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.163Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.920Z",
+        "name": "Nail Salon™: Games for Girls",
+        "objectId": "LSwN1oODBr",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 55,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.920Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.abto.manicure/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.161Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.916Z",
+        "name": "Little Hair Doctor",
+        "objectId": "tw9luMGzbc",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 48,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.916Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.tp.android.haird/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.163Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.924Z",
+        "name": "Fashion Story™",
+        "objectId": "sOQXL0bnjN",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 54,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.924Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.teamlava.fashionstory/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.151Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.868Z",
+        "name": "Candy Crush Saga",
+        "objectId": "gxQyX28FWD",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 1,
+            "type": "casual"
+        },
+        "sold": 300000000,
+        "soldDetail": {
+            "max": 500000000,
+            "min": 100000000,
+            "sold": 300000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.868Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.king.candycrushsaga/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.162Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.841Z",
+        "name": "MY LITTLE PONY",
+        "objectId": "7kDmuEDGrO",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 51,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.841Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.gameloft.android.ANMP.GloftPOHM/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.154Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.841Z",
+        "name": "Dumb Ways to Die",
+        "objectId": "PWZFwW4nx9",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 12,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.841Z",
+        "url": "http://www.appannie.com/apps/google-play/app/air.au.com.metro.DumbWaysToDie/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.159Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.836Z",
+        "name": "Electric Prank",
+        "objectId": "HzXCId8AMw",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 39,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.836Z",
+        "url": "http://www.appannie.com/apps/google-play/app/electric.ruocco/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.157Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.827Z",
+        "name": "Princess Back SPA -girls games",
+        "objectId": "Br2OY2JYDi",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 27,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.827Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.tp.android.bspa/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.158Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.814Z",
+        "name": "Minebuild",
+        "objectId": "dzArgB4fpS",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 34,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.814Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.mohitdev.minebuild/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.163Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.922Z",
+        "name": "Dots: A Game About Connecting",
+        "objectId": "RkbtavW06L",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 52,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.922Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.nerdyoctopus.gamedots/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.158Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.905Z",
+        "name": "Office Jerk Free",
+        "objectId": "FO7OtqSJiD",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 32,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.905Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.fluik.OfficeJerkFree/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.152Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.897Z",
+        "name": "Farm Heroes Saga",
+        "objectId": "FbXC7e1XDW",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 5,
+            "type": "casual"
+        },
+        "sold": 75000000,
+        "soldDetail": {
+            "max": 100000000,
+            "min": 50000000,
+            "sold": 75000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.897Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.king.farmheroessaga/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.164Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.877Z",
+        "name": "Theme Park",
+        "objectId": "4CZnCYcgbp",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 64,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.877Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.eamobile.themepark_na/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.166Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.844Z",
+        "name": "Chicken Wings Cooking",
+        "objectId": "HRnIEwh8uc",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 66,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.844Z",
+        "url": "http://www.appannie.com/apps/google-play/app/air.com.zyncstudio.ChickenWingsCooking/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.159Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.829Z",
+        "name": "Princess lips SPA  girls games",
+        "objectId": "BZeBoaHRTP",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 38,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.829Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.tp.android.lips/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.166Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.812Z",
+        "name": "Make-up Salon - girls games",
+        "objectId": "9Gc93L7bBv",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 68,
+            "type": "casual"
+        },
+        "sold": 300000,
+        "soldDetail": {
+            "max": 500000,
+            "min": 100000,
+            "sold": 300000
+        },
+        "updatedAt": "2014-08-02T06:09:39.812Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.degoo.android.makeupsalon/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.171Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.928Z",
+        "name": "Virtual Families Lite",
+        "objectId": "H1PBJmuMSW",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 94,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.928Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.ldw.android.vf.lite/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.168Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.928Z",
+        "name": "Cake Maker 2-Cooking game",
+        "objectId": "P3ntc8wSZA",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 78,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.928Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.g6677.android.cmcg/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.171Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.937Z",
+        "name": "Dragon Story™",
+        "objectId": "wpERRWR0Kt",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 93,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.937Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.teamlava.dragon/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.168Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.936Z",
+        "name": "Burger",
+        "objectId": "zbTCW7GlNH",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 77,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.936Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.magmamobile.game.Burger/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.164Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.937Z",
+        "name": "Little Ear Doctor",
+        "objectId": "YzBrByKsu6",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 63,
+            "type": "casual"
+        },
+        "sold": 30000000,
+        "soldDetail": {
+            "max": 50000000,
+            "min": 10000000,
+            "sold": 30000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.937Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.g6677.android.ledoctor/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.169Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.938Z",
+        "name": "Cooking Dash",
+        "objectId": "pYkmAZ4f5o",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 85,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.938Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.playfirst.playground.cookingdash/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.169Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.946Z",
+        "name": "Make It Rain: Love of Money",
+        "objectId": "oWodBbCBdc",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 89,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.946Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.SpaceInch.LoveOfMoney/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.167Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.949Z",
+        "name": "Stupid Zombies 2",
+        "objectId": "UGZ5fo6SPb",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 70,
+            "type": "casual"
+        },
+        "sold": 7500000,
+        "soldDetail": {
+            "max": 10000000,
+            "min": 5000000,
+            "sold": 7500000
+        },
+        "updatedAt": "2014-08-02T06:09:39.949Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.gameresort.sz2google/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.172Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.953Z",
+        "name": "Ice Age Village",
+        "objectId": "yFveienLVy",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 99,
+            "type": "casual"
+        },
+        "sold": 75000000,
+        "soldDetail": {
+            "max": 100000000,
+            "min": 50000000,
+            "sold": 75000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.953Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.gameloft.android.ANMP.GloftIAHM/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.171Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.953Z",
+        "name": "Monster Splash",
+        "objectId": "07nZPdXE8c",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 96,
+            "type": "casual"
+        },
+        "sold": 75000,
+        "soldDetail": {
+            "max": 100000,
+            "min": 50000,
+            "sold": 75000
+        },
+        "updatedAt": "2014-08-02T06:09:39.953Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.games.msplash/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.154Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.956Z",
+        "name": "Pou",
+        "objectId": "TrxFGdGuBy",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 11,
+            "type": "casual"
+        },
+        "sold": 300000000,
+        "soldDetail": {
+            "max": 500000000,
+            "min": 100000000,
+            "sold": 300000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.956Z",
+        "url": "http://www.appannie.com/apps/google-play/app/me.pou.app/"
+    },
+	{
+        "crawlDate": {
+            "__type": "Date",
+            "iso": "2014-08-02T06:08:42.170Z"
+        },
+        "createdAt": "2014-08-02T06:09:39.973Z",
+        "name": "Covet Fashion - Shopping Game",
+        "objectId": "meQKiEwP0O",
+        "platform": "android",
+        "rank": {
+            "country": "united-states",
+            "rank": 90,
+            "type": "casual"
+        },
+        "sold": 3000000,
+        "soldDetail": {
+            "max": 5000000,
+            "min": 1000000,
+            "sold": 3000000
+        },
+        "updatedAt": "2014-08-02T06:09:39.973Z",
+        "url": "http://www.appannie.com/apps/google-play/app/com.crowdstar.covetfashion/"
+    }
+] }
